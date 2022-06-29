@@ -2,7 +2,7 @@
 - 👀 I’m interested in Self Development
 - 🌱 I’m currently learning Something i like
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me @nesan_snap
+- 📫 How to reach me @nesanvenkatesan__
 
 <!---
 NesanVenkatesan/NesanVenkatesan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
